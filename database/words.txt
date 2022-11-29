@@ -112,7 +112,6 @@ bradipnoe
 bexato
 bedov
 boqiy
-bag‘rikenglik
 bosh
 boshlanish
 bonistika
@@ -692,3 +691,12 @@ fojia
 falsafiy
 familiya
 kitob
+olma
+cd
+maktab
+afsun
+nishon
+non
+namangan
+maosh
+nafas
