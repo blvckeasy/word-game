@@ -80,12 +80,8 @@ void random_word_generate(char rand_word[]) {
     count++;
   }
 
-  // printf("\ncount = %d\n",count);
-
   rewind(file);
   int random = rand() % (count);
-
-  // printf("\ncount = %d\n",count);
 
   for(int i = 1; fscanf(file, "%s", word) != EOF; i++) {
     if (i == random) {

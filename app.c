@@ -9,17 +9,16 @@ int main() {
   char random_word[64];
   char gamer_word[64];
   random_word_generate(random_word);
-  
-  while(1) {
-      
-    printf("random so'z = %s\n", random_word);
 
-    printf("so'z kiriting: ");
+  while(1) {
+    printf("random word = %s\n", random_word);
+
+    printf("Enter word: ");
     scanf("%s", gamer_word);
 
     if (is_used(gamer_word) || gamer_word[0] != random_word[strlen(random_word) - 1]) {
       check_and_add_word_from_database(gamer_word);
-      printf("Yutqazingiz.");
+      printf("FAIL.");
       break;
     }
     add_used_word(gamer_word);
@@ -29,7 +28,7 @@ int main() {
       check_and_add_word_from_database(gamer_word);
     } else {
       check_and_add_word_from_database(gamer_word);
-      printf("Yuttingiz.");
+      printf("WIN!");
       break;
     }
   }
