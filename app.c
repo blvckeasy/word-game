@@ -1,7 +1,4 @@
 #include <stdio.h>
-#include <string.h>
-#include <stdlib.h>
-#include <ctype.h>
 #include "utils.c"
 
 int main() {
@@ -18,7 +15,7 @@ int main() {
 
     if (is_used(gamer_word) || gamer_word[0] != random_word[strlen(random_word) - 1]) {
       check_and_add_word_from_database(gamer_word);
-      printf("FAIL.");
+      printf("YOU FAIL.");
       break;
     }
     add_used_word(gamer_word);
@@ -28,7 +25,7 @@ int main() {
       check_and_add_word_from_database(gamer_word);
     } else {
       check_and_add_word_from_database(gamer_word);
-      printf("WIN!");
+      printf("YOU WIN!");
       break;
     }
   }

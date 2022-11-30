@@ -84,8 +84,6 @@ abjirlanmoq
 abjirlashmoq
 abjirlik
 abjirona
-abjo‘sh
-abjo‘shi
 ablah
 ablahlarcha
 ablahlashmoq
@@ -96,15 +94,10 @@ ablaktirovka
 ablaq
 ablastika
 ablefariya
-bo‘zlamoq
 bildirgi
-bilfe'l
 bavl
 bildirishnoma
-bulg‘ori
 byudjet
-bog‘lamoq
-ba'zan
 balalayka
 bionika
 bitta-yarimta
@@ -117,20 +110,15 @@ boshlanish
 bonistika
 baxt-saodat
 biomagnetizm
-bo‘zlashmoq
 balandparvoz
 banogoh
 beshikchilik
 bayroq
-bo‘zchi
 bunyod
 baxtiyorlik
-bo‘ydor
 butunlay
 besh
 bolshevizm
-bid'at
-ba'd
 buxgalter
 bexonumon
 byurokratiya
@@ -144,37 +132,23 @@ boshlovchilik
 biroz
 betlik
 behayolik
-bo‘riq
 buvijon
 bangidevona
 badiiylik
 bachkana
-bo‘yra-bo‘yra
-bog‘lama
 baxmalgul
-badihago‘y
 bijuteriya
 bildiruvchi
 betlash
-bug‘doyrang
 boshqotirma
 bibliografiya
-buq'a
 bayonnoma
-bog‘lovchi
-bog‘cha
 bradilaliya
 boks
 baynalmilal
 burqut
 babaq
 bahodir
-bo‘lmag‘ur
-bog‘ot
-bo‘g‘ot
-birato‘la
-bo‘laklamoq
-bo‘znoch
 biolakt
 botil
 bezantirish
@@ -193,14 +167,12 @@ baxil
 bajarmoq
 blanka
 blok-sxema
-bolam-bo‘tam
 buromad
 olinma
 omonim
 ona-bola
 okkazionalizm
 oktyabr
-oqko‘ngillik
 orfografiya
 ohangdosh
 orfografik
@@ -227,7 +199,6 @@ ofitsiant
 oktabr
 oliyjanob
 obdastagardon
-og‘och
 oxirgi
 odosh
 or-nomus
@@ -263,7 +234,6 @@ ohangdoshlik
 organoidlar
 ontogenez
 ongsizlik
-obro‘
 opa-uka
 om
 obdon
@@ -281,7 +251,6 @@ opa
 ofitser
 orfogramma
 oliy
-oqko‘ngillilik
 olvoli
 oksidimetriya
 oksyumoron
@@ -303,7 +272,6 @@ hujjat
 holat
 hurmat
 hassos
-ho‘p
 holbuki
 havorang
 hatto
@@ -347,7 +315,6 @@ hayhot
 hormang
 hozirda
 had
-horg‘in-horg‘in
 hisobchi
 hushtak
 hokazo
@@ -356,7 +323,6 @@ hamkasb
 hujjatlashtirish
 hadya
 hojatxona
-husni ta'lil
 hadis
 hodisa
 hamma vaqt
@@ -364,7 +330,6 @@ hamza
 hajr
 hasad
 hammol
-ho‘plamoq
 hammualliflik
 havas
 hashar
@@ -395,7 +360,6 @@ haftiyak
 hamiyat
 hazillashmoq
 haytovur
-do‘ndiqqina
 detritofaglar
 dudama
 dahshat
@@ -411,7 +375,6 @@ dangasa
 destruktiv
 deontologiya
 dispersiya
-dubulg‘a
 dispanserizatsiya
 dezadaptatsiya
 dengiz
@@ -440,7 +403,6 @@ dardibedavo
 dasturilamal
 diagramma
 dumbul
-dang‘illama
 desmurgiya
 diftong
 dugona
@@ -469,9 +431,7 @@ devsifat
 dunyo
 dialekt
 darrov
-do‘nglik
 dars
-dolg‘a-dolg‘a
 dorinoma
 doyi
 dialog
@@ -484,7 +444,6 @@ daftar-qalam
 drama
 daxlsiz
 diskontlash
-da'vat
 defloratsiya
 dekantatsiya
 diakritik
@@ -493,14 +452,12 @@ dabdurustdan
 emchak
 erotika
 enantiosemiya
-e'lon
 epenteza
 evaz
 ehtirosli
 erotik
 esdalik
 evrilish
-e'tiroz
 eritropoez
 etiket
 ehtiros
@@ -508,13 +465,10 @@ erkalatish
 evfemizm
 elektrotravma
 erkalash
-e'timod
 egar-jabduq
 ekspluatatsiya
 eksergiya
 egotsentrizm
-e'timodlilik
-e'tibor
 ertak-doston
 emgak
 ertak-afsona
@@ -554,10 +508,8 @@ etnopsixologiya
 ergonomika
 eksklyuziv
 epigrafika
-e'tiqod
 etnik
 ehrom
-elektron lug‘at
 evara-chevara
 eskort
 evara-nevara
@@ -567,7 +519,6 @@ etnolingvistik
 eliziya
 ertalabki
 etnografik
-e'tiborsizlik
 emitter
 emansipatsiya
 ezma
@@ -581,9 +532,7 @@ embriokardiya
 ekspluatatsion
 erganakli
 etnofolkloristika
-e'dod
 emmetropiya
-e'tiborli
 emigrant
 etik
 erinchoq va erinchak
@@ -595,7 +544,6 @@ fursat
 fototaksis
 forscha-tojikcha
 favoritizm
-fe'l
 firoq
 faraz
 fitonim
@@ -619,7 +567,6 @@ fahm-farosat
 fibroz
 franklinizatsiya
 fonus
-fig‘on
 fazilat
 fitonsid
 FHDYO
@@ -651,7 +598,6 @@ furnitura
 fenomen
 fristayl
 firibgar
-forig‘lanish
 fart
 fermentyor
 farmoyish
@@ -673,7 +619,6 @@ fonokardiografiya
 fotoqarshilik
 fath
 farosatsiz
-faxr-g‘urur
 fonetik
 folklorshunoslik
 formatsiya
@@ -700,3 +645,4 @@ non
 namangan
 maosh
 nafas
+tarmoq
